@@ -1,0 +1,16 @@
+permission: ''
+world: world
+X: -172
+Y: 86
+Z: 356
+price: 0.0
+cooldown: 0
+globalCooldown: 0
+confirmation: false
+commands:
+- '/rtp '
+grantPermissions: []
+lastGlobalUse: 0
+lastUse: {}
+priceItems: {}
+exp: 0

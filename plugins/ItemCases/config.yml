@@ -1,0 +1,10 @@
+﻿CASE_ITEM_NAME: '&f%NAME% кейс'
+CASE_ITEM_TYPE: CHEST
+CASE_ITEM_LIST_ENABLED: true
+CASE_ITEM_LIST_MAX: 12
+CASE_ITEM_LIST_MAX_REACHED: '&bи &a%AMOUNT% &bдругие итемы'
+CASE_ITEM_LIST_HEADER: '&9&lЭтот кейс содержит вещи:'
+CASE_ITEM_LIST_PRESENTATION: '&a%AMOUNT%&7x &e%ITEMNAME%'
+ConfigVersion:
+  ConfigDataVersion: 7
+

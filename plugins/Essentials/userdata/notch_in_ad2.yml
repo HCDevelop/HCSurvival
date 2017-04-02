@@ -1,0 +1,26 @@
+timestamps:
+  login: 1490212083748
+  lastteleport: 1490131012664
+  logout: 1490130623320
+  kits:
+    еда: 1490125817348
+    armor: 1490132931383
+    eat: 1490132925575
+    броня+: 1490126420328
+    броня: 1490125821297
+ipAddress: 192.168.0.103
+lastlocation:
+  world: world
+  x: -168.58976170757762
+  y: 85.0
+  z: 360.9732680474529
+  yaw: -116.79413
+  pitch: 6.150019
+logoutlocation:
+  world: world
+  x: -913.5
+  y: 68.0
+  z: 494.5
+  yaw: 135.60059
+  pitch: 28.049982
+money: '0.0'

@@ -1,0 +1,10 @@
+maxDelay: 50
+commands:
+- spawnParticles: 1
+  playSound: 1
+  command: spawn
+  argRegex: ''
+version: 3
+minParticleDistance: 5
+minSoundDistance: 0
+locations: []

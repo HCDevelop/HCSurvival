@@ -1,0 +1,9 @@
+general:
+  check-updates: true
+  language: english
+  language-save: false
+smiley:
+  console: true
+  commands: true
+  colors: true
+  default-chat-color: '&f'

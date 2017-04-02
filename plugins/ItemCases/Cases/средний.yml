@@ -1,0 +1,125 @@
+Name: Средний
+RedeemDelay: -1
+'1':
+  type: MONSTER_EGG
+  amount: 1
+  durability: 120
+'2':
+  type: SMOOTH_BRICK
+  amount: 16
+'3':
+  type: IRON_AXE
+  amount: 1
+'4':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_FIRE:1
+'5':
+  type: DIAMOND_SWORD
+  amount: 1
+'6':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'7':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - FIRE_ASPECT:2
+'8':
+  type: SMOOTH_BRICK
+  amount: 16
+'9':
+  type: DIAMOND_PICKAXE
+  amount: 1
+'10':
+  type: IRON_SWORD
+  amount: 1
+'11':
+  type: DIAMOND_PICKAXE
+  amount: 1
+'12':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'13':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_FIRE:1
+'14':
+  type: WOOL
+  amount: 16
+  durability: 14
+'15':
+  type: IRON_SWORD
+  amount: 1
+'16':
+  type: ARROW
+  amount: 64
+'17':
+  type: IRON_PICKAXE
+  amount: 1
+'18':
+  type: SANDSTONE
+  amount: 64
+  durability: 2
+'19':
+  type: ARROW
+  amount: 64
+'20':
+  type: WOOL
+  amount: 16
+  durability: 14
+'21':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - FIRE_ASPECT:2
+'22':
+  type: IRON_AXE
+  amount: 1
+'23':
+  type: ARROW
+  amount: 64
+'24':
+  type: IRON_CHESTPLATE
+  amount: 1
+'25':
+  type: SANDSTONE
+  amount: 64
+  durability: 2
+'26':
+  type: MONSTER_EGG
+  amount: 1
+  durability: 120
+'27':
+  type: ARROW
+  amount: 64
+'28':
+  type: IRON_CHESTPLATE
+  amount: 1
+'29':
+  type: IRON_SWORD
+  amount: 1
+'30':
+  type: IRON_PICKAXE
+  amount: 1
+'31':
+  type: IRON_CHESTPLATE
+  amount: 1
+'32':
+  type: MONSTER_EGG
+  amount: 1
+  durability: 120
+'33':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_FIRE:1

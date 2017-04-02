@@ -1,0 +1,23 @@
+# World-specific settings
+#
+# creepers, TNT, fire, ghast, enderman, wither, dragons, magical: Set whether
+# or not to replace in this world the damages caused by these. Custom is for
+# plugin-generated explosions.
+#
+# replace-above-limit-only, replace-limit: If enabled, only damage above the
+# limit defined will be replaced. Default:false, 1
+#
+
+creepers: true
+TNT: true
+fire: true
+ghast: true
+enderman: false
+wither: true
+dragons: false
+custom: false
+minecart-tnt: true
+ender-crystal: false
+door-broken-by-zombie: true
+replace-above-limit-only: true
+replace-limit: 64

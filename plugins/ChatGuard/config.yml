@@ -1,0 +1,39 @@
+Whitelist:
+- 127.0.0.1
+Replacements:
+- 0|o
+- 1|l
+- '@|a'
+Caps: true
+Swear: true
+Flood: true
+Advertisment: true
+Compatibility:
+  priority: HIGH
+  Async: false
+CheckUpdates: true
+CapsPercent: 80
+Cancel: false
+FloodTime: 10
+Alternative: <censored>
+Warnings:
+  enable: true
+  count: 10
+  custom: true
+  custom-alts:
+    swear: ^_^
+    advert: Реклама
+Punishment:
+  ban: false
+  kick: true
+  mute:
+    enable: true
+    minutes: 10
+    block-cmds:
+    - /me
+    - /tell
+    - /msg
+    - /m
+  kill: false
+  reason: Ты плохой человек!
+  command: say {player} was punished for {reason}

@@ -1,0 +1,272 @@
+Name: chroma
+RedeemDelay: -1
+'1':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'2':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: M4A4-Bullet Rain
+'3':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: M4A1-ASIIMOV
+'4':
+  type: DIAMOND_HOE
+  amount: 1
+  meta: true
+  name: AWP ASIIMOV
+'5':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'6':
+  type: DIAMOND_HOE
+  amount: 1
+  meta: true
+  name: AWP ASIIMOV
+'7':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: M4A1-ASIIMOV
+'8':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: M4A4-Bullet Rain
+'9':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: M4A4-Bullet Rain
+'10':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'11':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'12':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'13':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'14':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'15':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'16':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'17':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'18':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'19':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'20':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'21':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'22':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'23':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'24':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'25':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'26':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'27':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'28':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'29':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'30':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'31':
+  type: IRON_PICKAXE
+  amount: 1
+  meta: true
+  name: P250 Hive
+'32':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'33':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'34':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'35':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'36':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'37':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'38':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'39':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'40':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: M4A4-Bullet Rain
+'41':
+  type: WOOD_PICKAXE
+  amount: 1
+  meta: true
+  name: M4A4-Bullet Rain
+'42':
+  type: DIAMOND_HOE
+  amount: 1
+  meta: true
+  name: AWP ASIIMOV
+'43':
+  type: DIAMOND_HOE
+  amount: 1
+  meta: true
+  name: AWP ASIIMOV
+'44':
+  type: DIAMOND_HOE
+  amount: 1
+  meta: true
+  name: AWP ASIIMOV
+'45':
+  type: WOOD_HOE
+  amount: 1
+  meta: true
+  name: NEGEV
+'46':
+  type: STONE_SWORD
+  amount: 1
+  meta: true
+  name: Bayonet Night
+'47':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: Karambit Blue Steel
+'48':
+  type: WOOD_SWORD
+  amount: 1
+  meta: true
+  name: Butterfly Knife-Crimson Web
+'49':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: Karambit Blue Steel
+'50':
+  type: STONE_HOE
+  amount: 1
+  meta: true
+  name: SSG 08 Dark Water
+'51':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'52':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane
+'53':
+  type: GOLD_HOE
+  amount: 1
+  meta: true
+  name: XM1014 Heaven Guard
+'54':
+  type: IRON_HOE
+  amount: 1
+  meta: true
+  name: CZ75-auto Hexane

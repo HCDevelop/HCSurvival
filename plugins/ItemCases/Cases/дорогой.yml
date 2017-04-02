@@ -1,0 +1,221 @@
+Name: Дорогой
+RedeemDelay: -1
+'1':
+  type: BREAD
+  amount: 64
+'2':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'3':
+  type: IRON_CHESTPLATE
+  amount: 1
+'4':
+  type: POTION
+  amount: 1
+  durability: 8265
+'5':
+  type: DIAMOND_AXE
+  amount: 1
+'6':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fДешевый кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a1§7x §eDiamond Sword
+  - §a64§7x §eCobblestone
+  - §a1§7x §eWood Axe
+  - §a1§7x §eIron Pickaxe
+  - §a1§7x §eWood Axe
+  - §a64§7x §eCobblestone
+  - §a6§7x §eApple
+  - §a1§7x §eBow
+  - §a1§7x §eWood Axe
+  - §a1§7x §eIron Hoe
+  - §a1§7x §eStone Pickaxe
+  - §bи §a7 §bдругие итемы
+'7':
+  type: GOLDEN_APPLE
+  amount: 1
+'8':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'9':
+  type: ENDER_CHEST
+  amount: 1
+'10':
+  type: IRON_CHESTPLATE
+  amount: 1
+'11':
+  type: DIAMOND_SWORD
+  amount: 1
+'12':
+  type: BREWING_STAND_ITEM
+  amount: 1
+'13':
+  type: SPECKLED_MELON
+  amount: 64
+'14':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - FIRE_ASPECT:2
+'15':
+  type: GOLDEN_APPLE
+  amount: 1
+'16':
+  type: IRON_LEGGINGS
+  amount: 1
+'17':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'18':
+  type: ENCHANTMENT_TABLE
+  amount: 1
+'19':
+  type: GRILLED_PORK
+  amount: 64
+'20':
+  type: DIAMOND_BOOTS
+  amount: 1
+'21':
+  type: IRON_PICKAXE
+  amount: 1
+'22':
+  type: IRON_INGOT
+  amount: 16
+'23':
+  type: GOLDEN_APPLE
+  amount: 1
+  durability: 1
+'24':
+  type: DIAMOND_PICKAXE
+  amount: 1
+'25':
+  type: DIAMOND_HELMET
+  amount: 1
+'26':
+  type: DIAMOND_PICKAXE
+  amount: 1
+'27':
+  type: POTION
+  amount: 1
+  durability: 8265
+'28':
+  type: IRON_PICKAXE
+  amount: 1
+'29':
+  type: MONSTER_EGG
+  amount: 16
+  durability: 120
+'30':
+  type: IRON_SPADE
+  amount: 1
+'31':
+  type: GOLDEN_APPLE
+  amount: 1
+'32':
+  type: ARROW
+  amount: 64
+'33':
+  type: DIAMOND_AXE
+  amount: 1
+'34':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fСредний кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a1§7x §eMonster Egg
+  - §a16§7x §eSmooth Brick
+  - §a1§7x §eIron Axe
+  - §a1§7x §eEnchanted Book
+  - §a1§7x §eDiamond Sword
+  - §a16§7x §eMonster Egg
+  - §a1§7x §eEnchanted Book
+  - §a16§7x §eSmooth Brick
+  - §a1§7x §eDiamond Pickaxe
+  - §a1§7x §eIron Sword
+  - §a1§7x §eDiamond Pickaxe
+  - §bи §a21 §bдругие итемы
+'35':
+  type: BREAD
+  amount: 64
+'36':
+  type: POTION
+  amount: 1
+  durability: 8265
+'37':
+  type: ENCHANTMENT_TABLE
+  amount: 1
+'38':
+  type: DIAMOND_PICKAXE
+  amount: 1
+'39':
+  type: IRON_LEGGINGS
+  amount: 1
+'40':
+  type: POTION
+  amount: 1
+  durability: 8265
+'41':
+  type: SPECKLED_MELON
+  amount: 5
+'42':
+  type: IRON_SPADE
+  amount: 1
+'43':
+  type: BREWING_STAND_ITEM
+  amount: 1
+'44':
+  type: ANVIL
+  amount: 1
+'45':
+  type: BED
+  amount: 1
+'46':
+  type: DIAMOND
+  amount: 16
+'47':
+  type: BLAZE_POWDER
+  amount: 5
+'48':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_FIRE:1
+'49':
+  type: IRON_LEGGINGS
+  amount: 1
+'50':
+  type: CHEST
+  amount: 1
+  meta: true
+  name: §fСредний кейс
+  lore:
+  - ''
+  - '§9§lЭтот кейс содержит вещи:'
+  - §a1§7x §eMonster Egg
+  - §a16§7x §eSmooth Brick
+  - §a1§7x §eIron Axe
+  - §a1§7x §eEnchanted Book
+  - §a1§7x §eDiamond Sword
+  - §a16§7x §eMonster Egg
+  - §a1§7x §eEnchanted Book
+  - §a16§7x §eSmooth Brick
+  - §a1§7x §eDiamond Pickaxe
+  - §a1§7x §eIron Sword
+  - §a1§7x §eDiamond Pickaxe
+  - §bи §a21 §bдругие итемы
+'51':
+  type: IRON_INGOT
+  amount: 16

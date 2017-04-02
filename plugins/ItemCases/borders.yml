@@ -1,0 +1,16 @@
+﻿Values:
+- ' RRRGRRR '
+- '         '
+- ' RRRGRRR '
+Items:
+  G: '31:0:&a&lВаш выигрыш!'
+  R: '101:0:&e&lПроигранные вещи!'
+RainbowMode: false
+RainbowDatas:
+- 9
+- 4
+- 3
+- 5
+- 6
+- 1
+

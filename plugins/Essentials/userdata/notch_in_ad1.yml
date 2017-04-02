@@ -1,0 +1,37 @@
+timestamps:
+  login: 1490212104563
+  lastteleport: 1490211424810
+  logout: 1490212254717
+  lastheal: 1478357092759
+  kits:
+    еда: 1490125686150
+    start: 1490041387134
+    броня: 1490125698601
+ipAddress: 192.168.0.103
+lastlocation:
+  world: world
+  x: -121.13412280909162
+  y: 99.0
+  z: 353.58160347577933
+  yaw: -268.81256
+  pitch: 11.099845
+logoutlocation:
+  world: world
+  x: -879.703719925573
+  y: 76.0
+  z: 496.852904560315
+  yaw: 14.24707
+  pitch: 38.09996
+money: '9999998470604.0'
+homes:
+  ____:
+    world: world
+    x: -885.4924768202974
+    y: 67.0
+    z: 485.9983034360902
+    yaw: -35.249977
+    pitch: 35.54999
+afk: false
+ban:
+  timeout: 0
+godmode: true

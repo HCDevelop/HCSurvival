@@ -1,0 +1,22 @@
+timestamps:
+  login: 1489943201684
+  logout: 1489943230392
+  kits:
+    start: 1478194613245
+  lastteleport: 1478355695671
+ipAddress: 192.168.0.103
+lastlocation:
+  world: world
+  x: -138.46632618621098
+  y: 92.86436893770396
+  z: 332.75563245087756
+  yaw: 11.550781
+  pitch: 5.5498905
+logoutlocation:
+  world: world
+  x: -114.96865901810061
+  y: 99.0
+  z: 353.5839825997032
+  yaw: 288.8094
+  pitch: 3.150007
+money: '75801.0'

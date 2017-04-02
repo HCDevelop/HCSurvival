@@ -1,0 +1,98 @@
+'0':
+  name: Case
+  world: world
+  x: -120
+  y: 99
+  z: 351
+  uuid: d8711126-5463-4c19-a8eb-eb94ae07b3c2
+  prof: 5
+  object: villager
+  type: admin
+  recipes:
+    '0':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 5
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHEST
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §fДешевый кейс
+            lore:
+            - ''
+            - '§9§lЭтот кейс содержит вещи:'
+            - §a1§7x §eDiamond Sword
+            - §a64§7x §eCobblestone
+            - §a1§7x §eWood Axe
+            - §a1§7x §eIron Pickaxe
+            - §a1§7x §eWood Axe
+            - §a64§7x §eCobblestone
+            - §a6§7x §eApple
+            - §a1§7x §eBow
+            - §a1§7x §eWood Axe
+            - §a1§7x §eIron Hoe
+            - §a1§7x §eStone Pickaxe
+            - §bи §a7 §bдругие итемы
+    '1':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: IRON_INGOT
+          amount: 32
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHEST
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §fСредний кейс
+            lore:
+            - ''
+            - '§9§lЭтот кейс содержит вещи:'
+            - §a1§7x §eMonster Egg
+            - §a16§7x §eSmooth Brick
+            - §a1§7x §eIron Axe
+            - §a1§7x §eEnchanted Book
+            - §a1§7x §eDiamond Sword
+            - §a16§7x §eMonster Egg
+            - §a1§7x §eEnchanted Book
+            - §a16§7x §eSmooth Brick
+            - §a1§7x §eDiamond Pickaxe
+            - §a1§7x §eIron Sword
+            - §a1§7x §eDiamond Pickaxe
+            - §bи §a21 §bдругие итемы
+    '2':
+      '0':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: DIAMOND
+          amount: 7
+      '2':
+        item:
+          ==: org.bukkit.inventory.ItemStack
+          type: CHEST
+          meta:
+            ==: ItemMeta
+            meta-type: UNSPECIFIC
+            display-name: §fДорогой кейс
+            lore:
+            - ''
+            - '§9§lЭтот кейс содержит вещи:'
+            - §a64§7x §eBread
+            - §a16§7x §eMonster Egg
+            - §a1§7x §eIron Chestplate
+            - §a1§7x §ePotion
+            - §a1§7x §eDiamond Axe
+            - §a1§7x §eChest
+            - §a1§7x §eGolden Apple
+            - §a16§7x §eMonster Egg
+            - §a1§7x §eEnder Chest
+            - §a1§7x §eIron Chestplate
+            - §a1§7x §eDiamond Sword
+            - §bи §a35 §bдругие итемы

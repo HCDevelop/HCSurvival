@@ -1,0 +1,12 @@
+Spout GUI enabled: true
+LoginScreen:
+  enabled: true
+  exit button: Quit
+  exit message: GoodBye
+  login button: Login
+  title: LOGIN
+  text:
+  - AuthMe
+  - Change this at spout.yml
+  - AuthMe By
+  - Eucliwood

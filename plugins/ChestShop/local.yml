@@ -1,0 +1,44 @@
+
+prefix: "§a[Shop] §r"
+iteminfo: "§aПункт Информация: §r"
+
+ACCESS_DENIED: "У вас нет разрешения, чтобы сделать это!"
+
+NOT_ENOUGH_MONEY: "Вам не хватает денег!"
+NOT_ENOUGH_MONEY_SHOP: "Вам не хватает денег!"
+
+CLIENT_DEPOSIT_FAILED: "Не удалось перечислить деньги на ваш счет!"
+SHOP_DEPOSIT_FAILED: "Депозит для владельца магазина не найден!"
+
+NO_BUYING_HERE: "Вы не можете покупать здесь!"
+NO_SELLING_HERE: "Вы не можете продавать здесь!"
+
+NOT_ENOUGH_SPACE_IN_INVENTORY: "Вам не хватает места в инвентаре!"
+NOT_ENOUGH_SPACE_IN_CHEST: "Вам не хватает места в инвентаре!"
+NOT_ENOUGH_ITEMS_TO_SELL: "У вас нет достаточно вещей, чтобы продать!"
+
+NOT_ENOUGH_STOCK: "В этом магазине НЕТ в наличии."
+NOT_ENOUGH_STOCK_IN_YOUR_SHOP: "Ваш %material успешно продан!"
+YOU_BOUGHT_FROM_SHOP: "Вы купили %item от владельца %owner за %price."
+SOMEBODY_BOUGHT_FROM_YOUR_SHOP: "%buyer купил %item за %price от вас."
+
+YOU_SOLD_TO_SHOP: "Вы продали %item %buyer за %price."
+SOMEBODY_SOLD_TO_YOUR_SHOP: "%seller продал %item за %price для вас."
+
+YOU_CANNOT_CREATE_SHOP: "Вы не можете создать этот тип магазина!"
+NO_CHEST_DETECTED: "Не могу найти сундук!"
+INVALID_SHOP_DETECTED: "Магазин нельзя использовать!"
+CANNOT_ACCESS_THE_CHEST: "Вам не хватает прав,чтобы использовать этот магазин!"
+
+PROTECTED_SHOP: "Успешно защищены магазин с LWC!"
+SHOP_CREATED: "Магазин успешно создан!"
+SHOP_FEE_PAID: "Вы были обвинены  %amount"
+SHOP_REFUNDED: "Вам была перечисленна сумма в %amount."
+
+RESTRICTED_SIGN_CREATED: "Табличка успешно создана!"
+
+NO_PERMISSION: "У вас нет прав для этого!"
+INCORRECT_ITEM_ID: "Вы указали неверный ID товара!"
+NOT_ENOUGH_PROTECTIONS: "Не удалось создать защиту!"
+
+CANNOT_CREATE_SHOP_HERE: "Вы не можете создать магазин здесь!"

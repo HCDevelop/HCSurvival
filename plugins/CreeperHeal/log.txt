@@ -1,0 +1,29 @@
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\config.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\advanced.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\config.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\advanced.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\grief.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\config.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\advanced.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\grief.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\config.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\advanced.yml
+21:50:39 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\grief.yml
+21:55:15 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\messages.properties
+21:55:15 [21:55:15] Notch_in_ad2 tried to place TNT in world world.
+21:55:18 [21:55:18] Notch_in_ad2 tried to place TNT in world world.
+21:55:18 [21:55:18] Notch_in_ad2 tried to place TNT in world world.
+21:55:19 [21:55:19] Notch_in_ad2 tried to place TNT in world world.
+21:55:19 [21:55:19] Notch_in_ad2 tried to place TNT in world world.
+21:55:19 [21:55:19] Notch_in_ad2 tried to place TNT in world world.
+21:55:19 [21:55:19] Notch_in_ad2 tried to place TNT in world world.
+21:55:19 [21:55:19] Notch_in_ad2 tried to place TNT in world world.
+21:55:20 [21:55:20] Notch_in_ad2 tried to place TNT in world world.
+21:55:20 [21:55:20] Notch_in_ad2 tried to place TNT in world world.
+21:55:20 [21:55:20] Notch_in_ad2 tried to place TNT in world world.
+21:55:20 [21:55:20] Notch_in_ad2 tried to place TNT in world world.
+21:55:20 [21:55:20] Notch_in_ad2 tried to place TNT in world world.
+21:55:21 [21:55:21] Notch_in_ad2 tried to place TNT in world world.
+21:55:21 [21:55:21] Notch_in_ad2 tried to place TNT in world world.
+21:55:21 [21:55:21] Notch_in_ad2 tried to place TNT in world world.
+21:55:42 [21:55:42] Notch_in_ad2 tried to place TNT in world world.

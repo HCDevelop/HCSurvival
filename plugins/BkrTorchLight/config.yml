@@ -1,0 +1,34 @@
+# BkrTorchLight v2.6.1Beta Configuration
+# by BeYkeRYkt
+auto-update: true
+message-torch-enable: true
+message-headlamp-enable: true
+ItemIDs:
+  slot1: 10
+  slot2: 11
+  slot3: 50
+  slot4: 51
+  slot5: 89
+  slot6: 91
+  slot7: 327
+  slot8: 369
+Strings:
+  activate: Факел включен.
+  deactivate: Факел выключен
+  disabled: Плагин отключен в этом мире.
+HeadLamp:
+  activate: Фары включены.
+  deactivate: Фары выключен.
+  disabled: Плагин отключен в этом мире.
+Light:
+  lightRadius: 15
+HeadLight:
+  lightRadius: 10
+Helmets:
+  slot1: 89
+  slot2: 91
+  slot3: 124
+Worlds:
+  world: true
+  world_nether: true
+  world_the_end: true

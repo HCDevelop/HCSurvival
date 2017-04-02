@@ -1,0 +1,24 @@
+general:
+  check-updates: true
+  language: russian
+  language-save: false
+code-page:
+  chat-fix-enable: true
+  command-fix-enable: true
+  sign-fix-enable: true
+  book-fix-enable: true
+  lore-fix-enable: false
+  inform-player: true
+output-recode:
+  console:
+    enable: false
+    code-page: CP866
+  server-log:
+    enable: false
+    code-page: CP1251
+input-recode:
+  enable: false
+  code-page: CP866
+white-list:
+  enable: true
+  replace: _

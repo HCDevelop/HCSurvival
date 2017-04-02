@@ -1,0 +1,253 @@
+groups:
+  player:
+    default: true
+    permissions:
+    - essentials.help
+    - essentials.msg
+    - simplemsg.spy
+    - essentials.pay
+    - essentials.afk
+    - essentials.kits.start
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.select.own.*
+    - worldedit.selection.hpos
+    - worldedit.selection.pos
+    - worldedit.wand
+    - worldedit.selection.expand
+    - worldguard.region.claim
+    - worldguard.region.remove.own.*
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.home
+    - essentials.sethome
+    - essentials.sethome.multiple.default
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.balance
+    - essentials.balancetop
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.kit
+    - ChestShop.shop.buy
+    - ChestShop.shop.sell
+    - btl.use
+    - trade.invite
+    - randomtp.tp
+    - serversigns.use.*
+    - mywarp.warp.basic.list
+    - mywarp.warp.basic.warp
+    prefix: '&7[&fИгрок&7] &b'
+    suffix: '&3'
+  Vip:
+    prefix: '&5[&dVip&5] &c'
+    suffix: '&e'
+    default: false
+    inheritance:
+    - player
+    permissions:
+    - essentials.exp
+    - essentials.feed
+    - essentials.kits.Eat
+    - essentials.kits.Armor
+    - essentials.repair
+    - essentials.repair.armor
+    - essentials.msg.color
+    - essentials.nick.color
+    - scavenger.scavenge
+    - scavenger.level
+    - scavenger.exp
+    - scavenger.free
+    - essentials.sethome.multiple.vip
+    - essentials.joinfullserver
+    - essentials.kill
+  premium:
+    prefix: '&7[&6Premiom[&7] &3'
+    suffix: '&6'
+    default: false
+    inheritance:
+    - player
+    - vip
+    permissions:
+    - essentials.god
+    - backpack.craft
+    - essentials.kits.*
+    - smiley.chat
+    - smiley.list
+    - essentials.enchant
+    - essentials.exp.set
+    - essentials.firework
+    - essentials.fly
+    - essentials.fly.safelogin
+    - essentials.hat
+    - essentials.heal
+    - essentials.repair.enchanted
+    - essentials.speed
+    - essentials.recipe
+    - essentials.jump
+    - essentials.sethome.multiple.staff
+    - worldguard.region.unlimited
+    - mywarp.basic.*
+    - mywarp.warp.soc.*
+  creative:
+    prefix: '&4[&bКреативщик&4] &2'
+    suffix: '&2'
+    default: false
+    inheritance:
+    - player
+    - vip
+    - premium
+    permissions:
+    - essentials.gamemode
+    - backpack.open.item
+    - cannons.player.fire
+    - cannons.player.build
+  moderator:
+    prefix: '&5[&9Модератор&5] &b'
+    suffix: '&b'
+    default: false
+    inheritance:
+    - player
+    - creative
+    permissions:
+    - openinv.*
+    - essentials.antioch
+    - essentials.backup
+    - essentials.ban
+    - essentials.ban.exempt
+    - essentials.ban.notify
+    - essentials.ban.offline
+    - essentials.banip
+    - essentials.clearinventory
+    - essentials.clearinventory.others
+    - essentials.enderchest
+    - essentials.kick
+    - essentials.kick.exempt
+    - essentials.kick.notify
+    - essentials.kill
+    - essentials.lightning
+    - essentials.mute
+    - essentials.mute.exempt
+    - essentials.setjail
+    - essentials.tempban
+    - essentials.tempban.offline
+    - essentials.unban
+    - essentials.unbanip
+    - essentials.vanish
+    - essentials.vanish.effect
+    - essentials.sethome.multiple.unlimited
+    - essentials.tp
+    - essentials.tp.other
+    - essentials.protect.admin
+    - essentials.protect
+    - worldedit.biome.list
+    - worldedit.biome.info
+    - worldedit.clipboard.load
+    - worldedit.clipboard.save
+    - worldedit.clipboard.copy
+    - worldedit.clipboard.rotate
+    - worldedit.clipboard.paste
+    - worldedit.generation.sphere
+    - worldedit.generation.sphere
+    - worldedit.generation.forest
+    - worldedit.generation.pumpkins
+    - worldedit.generation.pyramid
+    - worldedit.history.undo
+    - worldedit.region.stack
+    - worldedit.region.set
+    - worldedit.tool.tree
+    - worldedit.snow
+    - worldedit.fixlava
+    - worldedit.fixwater
+    - worldedit.remove
+    - worldguard.slay
+    - worldguard.slay.other
+    - worldguard.fire-toggle.*
+    - worldguard.region.define
+    - worldguard.region.flag.regions.own.*
+    - worldguard.*
+    - lwc.admin
+  admin:
+    prefix: '&f[&aAдмин&f] &c'
+    suffix: '&c'
+    default: false
+    inheritance:
+    - player
+    - moderator
+    - creative
+    - vip
+    - premium
+    - zam
+    permissions:
+    - essentials.*
+    - worldedit.*
+    - worldguard.*
+    - jobs.*
+    - lwc*
+    - iConomy.*
+    - authme.*
+    - scavenger.*
+    - creativegates.*
+    - idisguise.*
+    - AdminChannel.Send.*
+    - AdminChannel.Recieve.*
+    - sw.warn.*
+    - sw.check.*
+    - sw.check.other.*
+    - sw.delete.*
+    - sw.mod.*
+    - sw.reload.*
+    - sw.fix.*
+  zam:
+    prefix: '&9[&7Заместитель&9] &a'
+    suffix: '&f'
+    default: false
+    inheritance:
+    - player
+    - moder
+    - creative
+    - vip
+    - premium
+    permissions:
+    - worldedit.*
+    - worldguard.*
+    - craftbook.*
+    - authme.*
+    - lwc.*
+    - trophyheads.spawn.*
+    - trophyheads.drop.*
+    - trophyheads.info.*
+  sozdal:
+    prefix: '&8[&4&kПовелитель&8] &3'
+    suffix: '&2&l'
+    default: false
+    permissions:
+    - '*'
+users:
+  Matthew_u:
+    permissions:
+    - creative
+    group:
+    - creative
+  Notch_in_ad1:
+    permissions:
+    - sozdal
+    group:
+    - sozdal
+  Staer:
+    group:
+    - sozdal
+  Notch_in_ad2:
+    group:
+    - creative
+  Dark:
+    group:
+    - sozdal
+  Pogon929:
+    group:
+    - sozdal

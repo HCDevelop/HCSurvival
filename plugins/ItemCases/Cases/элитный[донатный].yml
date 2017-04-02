@@ -1,0 +1,362 @@
+Name: Элитный[Донатный]
+RedeemDelay: -1
+'1':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - SILK_TOUCH:1
+'2':
+  type: EXP_BOTTLE
+  amount: 64
+'3':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Shoes God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+'4':
+  type: DIAMOND_SWORD
+  amount: 1
+'5':
+  type: GOLDEN_APPLE
+  amount: 8
+  durability: 1
+'6':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: God Pickaxe
+  enchants:
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+'7':
+  type: DIAMOND_HELMET
+  amount: 1
+  meta: true
+  name: God helmet
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - OXYGEN:3
+  - THORNS:3
+'8':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+'9':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+  meta: true
+  name: The breastplate of God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - DURABILITY:3
+  - THORNS:3
+'10':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: The sword of God
+  enchants:
+  - FIRE_ASPECT:2
+  - DAMAGE_ALL:5
+'11':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - DURABILITY:3
+'12':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: God Pickaxe
+  enchants:
+  - DIG_SPEED:5
+  - LOOT_BONUS_BLOCKS:3
+'13':
+  type: DIAMOND_LEGGINGS
+  amount: 1
+  meta: true
+  name: Leggings God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - THORNS:3
+'14':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: God Pickaxe
+  enchants:
+  - DIG_SPEED:5
+'15':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - LOOT_BONUS_BLOCKS:3
+'16':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: God Pickaxe
+  enchants:
+  - DIG_SPEED:5
+  - LOOT_BONUS_BLOCKS:3
+'17':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: The sword of God
+  enchants:
+  - ARROW_DAMAGE:5
+  - DAMAGE_ALL:5
+  - DURABILITY:3
+  - FIRE_ASPECT:2
+'18':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: God Pickaxe
+  enchants:
+  - DIG_SPEED:5
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+'19':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+  meta: true
+  name: The breastplate of God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+'20':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: The sword of God
+  enchants:
+  - DAMAGE_ALL:5
+'21':
+  type: DIAMOND_HELMET
+  amount: 1
+  meta: true
+  name: God helmet
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+'22':
+  type: DIAMOND_HELMET
+  amount: 1
+  meta: true
+  name: God helmet
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - THORNS:3
+'23':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+  meta: true
+  name: The breastplate of God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - THORNS:3
+'24':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Shoes God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FALL:4
+  - THORNS:3
+'25':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: The sword of God
+  enchants:
+  - FIRE_ASPECT:2
+'26':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - THORNS:3
+'27':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Shoes God
+  enchants:
+  - PROTECTION_FALL:4
+'28':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Shoes God
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FALL:4
+'29':
+  type: DIAMOND_LEGGINGS
+  amount: 1
+  meta: true
+  name: Leggings God
+  enchants:
+  - THORNS:3
+'30':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: Shoes God
+  enchants:
+  - THORNS:3
+'31':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_FIRE:1
+'32':
+  type: GOLDEN_APPLE
+  amount: 16
+'33':
+  type: GOLDEN_APPLE
+  amount: 16
+'34':
+  type: GOLDEN_APPLE
+  amount: 16
+'35':
+  type: BOW
+  amount: 1
+  meta: true
+  name: God's bow
+  enchants:
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+'36':
+  type: BOW
+  amount: 1
+  meta: true
+  name: God's bow
+  enchants:
+  - ARROW_DAMAGE:5
+  - ARROW_FIRE:1
+'37':
+  type: EXP_BOTTLE
+  amount: 64
+'38':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - OXYGEN:3
+'39':
+  type: BOW
+  amount: 1
+  meta: true
+  name: God's bow
+  enchants:
+  - ARROW_DAMAGE:5
+  - ARROW_KNOCKBACK:2
+  - ARROW_FIRE:1
+  - DURABILITY:3
+'40':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - ARROW_DAMAGE:5
+'41':
+  type: ENCHANTED_BOOK
+  amount: 1
+  meta: true
+  enchants:
+  - DAMAGE_ALL:5
+'42':
+  type: EXP_BOTTLE
+  amount: 64
+'43':
+  type: DIAMOND_HELMET
+  amount: 1
+  meta: true
+  name: §a§lШлем Бога
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - DURABILITY:3
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - OXYGEN:3
+  - THORNS:3
+'44':
+  type: DIAMOND_CHESTPLATE
+  amount: 1
+  meta: true
+  name: §a§lНагрудник Бога
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - DURABILITY:3
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - THORNS:3
+'45':
+  type: DIAMOND_LEGGINGS
+  amount: 1
+  meta: true
+  name: §a§lПоножи Бога
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - DURABILITY:3
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - THORNS:3
+'46':
+  type: DIAMOND_BOOTS
+  amount: 1
+  meta: true
+  name: §a§lБотинки Бога
+  enchants:
+  - PROTECTION_ENVIRONMENTAL:4
+  - PROTECTION_FIRE:4
+  - DURABILITY:3
+  - PROTECTION_FALL:4
+  - PROTECTION_EXPLOSIONS:4
+  - PROTECTION_PROJECTILE:4
+  - THORNS:3
+'47':
+  type: DIAMOND_PICKAXE
+  amount: 1
+  meta: true
+  name: §a§lКирка
+  enchants:
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
+'48':
+  type: DIAMOND_SWORD
+  amount: 1
+  meta: true
+  name: §a§lМечь Бога
+  enchants:
+  - DAMAGE_ALL:5
+  - DURABILITY:3
+  - KNOCKBACK:2
+  - FIRE_ASPECT:2
+  - LOOT_BONUS_MOBS:3
+'49':
+  type: DIAMOND_AXE
+  amount: 1
+  meta: true
+  name: §a§lТопор
+  enchants:
+  - DIG_SPEED:5
+  - SILK_TOUCH:1
+  - DURABILITY:3
+  - LOOT_BONUS_BLOCKS:3
