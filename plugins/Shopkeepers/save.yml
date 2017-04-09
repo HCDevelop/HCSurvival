@@ -4,7 +4,6 @@
   x: -120
   y: 99
   z: 351
-  uuid: d8711126-5463-4c19-a8eb-eb94ae07b3c2
   prof: 5
   object: villager
   type: admin
@@ -96,3 +95,12 @@
             - §a1§7x §eIron Chestplate
             - §a1§7x §eDiamond Sword
             - §bи §a35 §bдругие итемы
+'1':
+  world: world
+  x: -121
+  y: 101
+  z: 351
+  prof: 0
+  object: villager
+  type: admin
+  recipes: {}
